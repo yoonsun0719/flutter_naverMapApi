@@ -1,0 +1,4 @@
+#Fri Sep 02 18:03:34 KST 2022
+base.0=C\:\\Users\\USER\\StudioProjects\\naver_map_test\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
